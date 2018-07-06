@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="category_bars">Bars</string>
+    <string name="category_events">Events</string>
+    <string name="category_monuments">Antiques</string>
+    <string name="category_historical">Historic place</string>
+
+    <!--Data for Bars Fragment-->
+    <string name="title11">John Mulligan\'s</string>
+    <string name="title12">Slattery\'s</string>
+    <string name="title13">Stag\'s Head</string>
+    <string name="title14">Peter\'s Pub</string>
+
+    <string name="hour11">10.30am-11.30pm</string>
+    <string name="hour12">1-11.30pm</string>
+    <string name="hour13">10.30am-1am</string>
+    <string name="hour14">11am-11.30pm</string>
+
+    <string name="cost11">$8 pint</string>
+    <string name="cost12">$6.5 pint</string>
+    <string name="cost13">$9 pint</string>
+    <string name="cost14">$10 pint</string>
+
+    <string name="dec11">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec12">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec13">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec14">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+
+
+    <!--Data for Museums Fragment-->
+    <string name="title21">Guinness Storehouse</string>
+    <string name="title22">Little Museum of Dublin</string>
+    <string name="title23">St Stephen\'s Green</string>
+    <string name="title24">Irish Whiskey Museum</string>
+
+    <string name="hour21">9.30am-6pm</string>
+    <string name="hour22">9.30am-5pm</string>
+    <string name="hour23">dawn-dusk</string>
+    <string name="hour24">10am-6pm</string>
+
+    <string name="cost21">$18/$16.50</string>
+    <string name="cost22">$8/$6</string>
+    <string name="cost23">Free</string>
+    <string name="cost24">$20</string>
+
+    <string name="dec21">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec22">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec23">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec24">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+
+
+    <!--Data for Events Fragment-->
+    <string name="title31">Dublin Fringe Festival</string>
+    <string name="title32">St Patrick\'s Festival</string>
+    <string name="title33">Culture Night</string>
+    <string name="title34">Forbidden Fruit</string>
+
+    <string name="hour31">September</string>
+    <string name="hour32">March</string>
+    <string name="hour33">September</string>
+    <string name="hour34">June</string>
+
+    <string name="dec31">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec32">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec33">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec34">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+
+    <!--Data for Historical Fragment-->
+    <string name="title41">National Museum</string>
+    <string name="title42">St Patrick\'s Cathedral</string>
+    <string name="title43">Kilmainham Gaol</string>
+    <string name="title44">Marsh\'s Library</string>
+
+    <string name="hour41">10am-5pm</string>
+    <string name="hour42">9-10.30am</string>
+    <string name="hour43">9.am-6.45pm</string>
+    <string name="hour44">9.30am-5pm</string>
+
+    <string name="cost41">Free</string>
+    <string name="cost42">$6.5/free</string>
+    <string name="cost43">$8/$4</string>
+    <string name="cost44">$3/free</string>
+
+    <string name="dec41">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec42">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec43">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+    <string name="dec44">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eu velit nisl. Etiam lectus risus. </string>
+
+
+</resources>

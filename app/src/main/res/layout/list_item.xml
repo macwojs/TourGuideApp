@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_gradient"
+    >
+
+    <ImageView
+        android:id="@+id/imageview_picture"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        tools:src="@tools:sample/avatars"
+        android:layout_marginLeft="16dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        >
+
+        <TextView
+            android:id="@+id/textview_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="8dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/textPrimary"
+            tools:text="Kościół im. NMP"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="8dp"
+            >
+            <TextView
+                android:id="@+id/textview_open_hour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="16dp"
+                android:textColor="@color/textSecondary"
+                android:textSize="12sp"
+                tools:text="asdasdas"
+                />
+            <TextView
+                android:id="@+id/textview_cost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textSecondary"
+                android:textSize="12sp"
+                tools:text="asdasdas"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textview_descripton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="16dp"
+            android:textColor="@color/textSecondary"
+            android:textSize="14sp"
+            tools:text="The bigest churc in poland with very buitfule ajsdjaosdjaosasdlasdjasldjaskldjaklsjdaslkjd"
+            />
+    </LinearLayout>
+
+</LinearLayout>
